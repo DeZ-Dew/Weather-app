@@ -9,6 +9,7 @@
  be a student again and put in time coding and testing to make sure things work properly before I deploy my site. Shown below is an example of what
  the app looks like. 
  
-![image](https://user-images.githubusercontent.com/59490521/116952890-d2955180-ac59-11eb-9170-40a90a24c440.png)
+![image](https://user-images.githubusercontent.com/59490521/117002950-3cd9e080-acb2-11eb-94d7-975fb75f8648.png)
+
 
 https://weather-clear.vercel.app/
