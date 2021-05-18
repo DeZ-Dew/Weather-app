@@ -15,5 +15,7 @@
 https://weather-clear.vercel.app/
 
 Many thanks to Jonah Lawrence of Dev Pro Tips for the tutorial:
+
 https://www.youtube.com/watch?v=WZNG8UomjSI&t=227s
+
 https://github.com/DenverCoder1/weather-app-tutorial
